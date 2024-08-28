@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.icons8.com/color/35/linkedin.png)](https://www.linkedin.com/in/rodrigo-bernardo-83694019b/)
 [![Instagram](https://img.icons8.com/fluency/35/instagram-new.png)](https://www.instagram.com/rodrigo__bernar/)
-[![Gmail](https://img.icons8.com/fluency/35/gmail.png)](bernardoramiro159@gmail.com)
+[![Gmail](https://img.icons8.com/fluency/35/gmail.png)](mailto:bernardoramiro159@gmail.com)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rogs55&show_icons=true&theme=dark)
 
