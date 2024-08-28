@@ -1,19 +1,18 @@
 ### Olá! Eu sou o Rodrigo Bernardo 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rodrigo-bernardo-83694019b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/rodrigo__bernar/)
+[![Linkedin](https://img.icons8.com/color/35/linkedin.png)](https://www.linkedin.com/in/rodrigo-bernardo-83694019b/)
+[![Instagram](https://img.icons8.com/fluency/35/instagram-new.png)](https://www.instagram.com/rodrigo__bernar/)
+[![Gmail](https://img.icons8.com/fluency/35/gmail.png)](bernardoramiro159@gmail.com)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rogs55&show_icons=true&theme=dark)
 
 ## Tecnologias
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-)
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-)
-
+![Python](https://img.icons8.com/color/30//python--v1.png)
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
+![Python](https://img.icons8.com/color/30/php.png)
+![JavaScript](https://img.icons8.com/fluency/30/javascript.png)
+![HTML](https://img.icons8.com/color/30/html-5--v1.png)
+![CSS](https://img.icons8.com/color/30/css3.png)
 
